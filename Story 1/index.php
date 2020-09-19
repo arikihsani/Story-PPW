@@ -1,1 +1,1 @@
-<?php header( 'Location: /profile.html' ) ;  ?>
+<?php include("profile.html");  ?>
